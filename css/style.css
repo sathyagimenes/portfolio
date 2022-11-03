@@ -80,8 +80,13 @@ header {
 }
 
 hr {
-	margin-bottom: 4%;
+	margin-bottom: 1%;
 	width: 20%;
+}
+
+.subtitle p{
+	margin-bottom: 3px;
+	color: aqua;
 }
 
 .aboutme p {
